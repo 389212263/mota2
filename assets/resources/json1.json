@@ -1,0 +1,23 @@
+[
+  {
+    "name": "shilaimu",
+    "HP": "20",
+    "ATK": "5",
+    "DEF": "5",
+    "coin": "5"
+  },
+  {
+    "name": "kulouguai",
+    "HP": "100",
+    "ATK": "15",
+    "DEF": "20",
+    "coin": "20"
+  },
+  {
+    "name": "hongshilaimu",
+    "HP": "30",
+    "ATK": "7",
+    "DEF": "10",
+    "coin": "9"
+  }
+]
