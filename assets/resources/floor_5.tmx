@@ -78,6 +78,31 @@
  </tileset>
  <tileset firstgid="61" name="monster" tilewidth="32" tileheight="32" tilecount="192">
   <image source="monster.png" width="128" height="1538"/>
+  <tile id="0">
+   <properties>
+    <property name="type" value="GreenSlime"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="type" value="RedSlime"/>
+   </properties>
+  </tile>
+  <tile id="16">
+   <properties>
+    <property name="type" value="Bat"/>
+   </properties>
+  </tile>
+  <tile id="32">
+   <properties>
+    <property name="type" value="Priest"/>
+   </properties>
+  </tile>
+  <tile id="52">
+   <properties>
+    <property name="type" value="SkeletonB"/>
+   </properties>
+  </tile>
   <tile id="160">
    <properties>
     <property name="type" value="npc"/>

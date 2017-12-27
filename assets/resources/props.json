@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0",
+    "name": "yellow_key",
+    "key": "1"
+  },
+  {
+    "id": "1",
+    "name": "blue_key",
+    "key": "2"
+  },
+  {
+    "id": "2",
+    "name": "red_key",
+    "key": "3"
+  },
+  {
+    "id": "3",
+    "name": "big_key",
+    "key": "4"
+  },
+  {
+    "id": "4",
+    "name": "blue_blood",
+    "HP": "100"
+  },
+  {
+    "id": "5",
+    "name": "red_blood",
+    "HP": "50"
+  },
+  {
+    "id": "6",
+    "name": "blue_stone",
+    "DEF": "2"
+  },
+  {
+    "id": "7",
+    "name": "red_stone",
+    "ATK": "2"
+  },
+  {
+    "id": "8",
+    "name": "iron_sword",
+    "ATK": "10"
+  },
+  {
+    "id": "9",
+    "name": "iron_shield",
+    "DEF": "10"
+  },
+  {
+    "id": "10",
+    "name": "bronze_sword",
+    "ATK": "20"
+  },
+  {
+    "id": "11",
+    "name": "bronze_shield",
+    "DEF": "20"
+  }
+]

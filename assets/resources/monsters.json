@@ -1,0 +1,290 @@
+[
+  {
+    "id": "0",
+    "name": "GreenSlime",
+    "HP": "35",
+    "ATK": "18",
+    "DEF": "1",
+    "coin": "1"
+  },
+  {
+    "id": "1",
+    "name": "RedSlime",
+    "HP": "45",
+    "ATK": "20",
+    "DEF": "2",
+    "coin": "2"
+  },
+  {
+    "id": "2",
+    "name": "Priest",
+    "HP": "60",
+    "ATK": "32",
+    "DEF": "8",
+    "coin": "5"
+  },
+  {
+    "id": "3",
+    "name": "Bat",
+    "HP": "35",
+    "ATK": "38",
+    "DEF": "3",
+    "coin": "3"
+  },
+  {
+    "id": "4",
+    "name": "SkeletonC",
+    "HP": "50",
+    "ATK": "42",
+    "DEF": "6",
+    "coin": "6"
+  },
+  {
+    "id": "5",
+    "name": "BigSlime",
+    "HP": "130",
+    "ATK": "60",
+    "DEF": "3",
+    "coin": "8"
+  },
+  {
+    "id": "6",
+    "name": "SkeletonB",
+    "HP": "55",
+    "ATK": "52",
+    "DEF": "12",
+    "coin": "8"
+  },
+  {
+    "id": "7",
+    "name": "GateKeeperC",
+    "HP": "50",
+    "ATK": "48",
+    "DEF": "22",
+    "coin": "12"
+  },
+  {
+    "id": "8",
+    "name": "SkeletonA",
+    "HP": "100",
+    "ATK": "65",
+    "DEF": "15",
+    "coin": "30"
+  },
+  {
+    "id": "9",
+    "name": "Zombie",
+    "HP": "260",
+    "ATK": "85",
+    "DEF": "5",
+    "coin": "18"
+  },
+  {
+    "id": "10",
+    "name": "Gate-KeeperC",
+    "HP": "50",
+    "ATK": "48",
+    "DEF": "22",
+    "coin": "12"
+  },
+  {
+    "id": "11",
+    "name": "BigBat",
+    "HP": "60",
+    "ATK": "100",
+    "DEF": "8",
+    "coin": "12"
+  },
+  {
+    "id": "12",
+    "name": "SuperionPriest",
+    "HP": "100",
+    "ATK": "95",
+    "DEF": "30",
+    "coin": "22"
+  },
+  {
+    "id": "13",
+    "name": "ZombieKnight",
+    "HP": "320",
+    "ATK": "120",
+    "DEF": "15",
+    "coin": "30"
+  },
+  {
+    "id": "14",
+    "name": "SlimeMan",
+    "HP": "320",
+    "ATK": "140",
+    "DEF": "20",
+    "coin": "30"
+  },
+  {
+    "id": "15",
+    "name": "Rock",
+    "HP": "20",
+    "ATK": "100",
+    "DEF": "68",
+    "coin": "28"
+  },
+  {
+    "id": "16",
+    "name": "GoldenKnight",
+    "HP": "120",
+    "ATK": "100",
+    "DEF": "50",
+    "coin": "100"
+  },
+  {
+    "id": "17",
+    "name": "GiantOctopus",
+    "HP": "1200",
+    "ATK": "180",
+    "DEF": "20",
+    "coin": "100"
+  },
+  {
+    "id": "18",
+    "name": "GhostSoldier",
+    "HP": "220",
+    "ATK": "180",
+    "DEF": "30",
+    "coin": "35"
+  },
+  {
+    "id": "19",
+    "name": "Soldier",
+    "HP": "210",
+    "ATK": "200",
+    "DEF": "65",
+    "coin": "45"
+  },
+  {
+    "id": "20",
+    "name": "Vampire",
+    "HP": "444",
+    "ATK": "199",
+    "DEF": "66",
+    "coin": "144"
+  },
+  {
+    "id": "21",
+    "name": "GoldenKnight",
+    "HP": "120",
+    "ATK": "100",
+    "DEF": "50",
+    "coin": "100"
+  },
+  {
+    "id": "22",
+    "name": "Gate-KeeperB",
+    "HP": "100",
+    "ATK": "180",
+    "DEF": "110",
+    "coin": "100"
+  },
+  {
+    "id": "23",
+    "name": "SlimeLord",
+    "HP": "360",
+    "ATK": "310",
+    "DEF": "20",
+    "coin": "40"
+  },
+  {
+    "id": "24",
+    "name": "Knight",
+    "HP": "160",
+    "ATK": "230",
+    "DEF": "105",
+    "coin": "65"
+  },
+  {
+    "id": "25",
+    "name": "VampireBat",
+    "HP": "200",
+    "ATK": "390",
+    "DEF": "90",
+    "coin": "50"
+  },
+  {
+    "id": "26",
+    "name": "MagicianB",
+    "HP": "220",
+    "ATK": "370",
+    "DEF": "110",
+    "coin": "80"
+  },
+  {
+    "id": "27",
+    "name": "MagicianA",
+    "HP": "200",
+    "ATK": "380",
+    "DEF": "130",
+    "coin": "90"
+  },
+  {
+    "id": "28",
+    "name": "TheMagicSergeant",
+    "HP": "230",
+    "ATK": "450",
+    "DEF": "100",
+    "coin": "100"
+  },
+  {
+    "id": "29",
+    "name": "TheMagicSergeantZeno",
+    "HP": "800",
+    "ATK": "500",
+    "DEF": "100",
+    "coin": "500"
+  },
+  {
+    "id": "30",
+    "name": "DarkKnight",
+    "HP": "180",
+    "ATK": "430",
+    "DEF": "210",
+    "coin": "120"
+  },
+  {
+    "id": "31",
+    "name": "Swordsman",
+    "HP": "100",
+    "ATK": "680",
+    "DEF": "50",
+    "coin": "55"
+  },
+  {
+    "id": "32",
+    "name": "Gate-KeeperA",
+    "HP": "180",
+    "ATK": "460",
+    "DEF": "360",
+    "coin": "200"
+  },
+  {
+    "id": "33",
+    "name": "Dragon",
+    "HP": "1500",
+    "ATK": "600",
+    "DEF": "250",
+    "coin": "800"
+  },
+  {
+    "id": "34",
+    "name": "GreatMagicMaster",
+    "HP": "4500",
+    "ATK": "560",
+    "DEF": "310",
+    "coin": "1000"
+  },
+  {
+    "id": "35",
+    "name": "TheMagicSergeant",
+    "HP": "5000",
+    "ATK": "1580",
+    "DEF": "190",
+    "coin": "500"
+  }
+]
